@@ -12,6 +12,7 @@ namespace PL
         {
             Console.WriteLine("Se crea una rama llamada 'practica'");
             Console.WriteLine("Se manda commit en rama");
+            Console.WriteLine("Commit para mandar a main");
         }
     }
 }
