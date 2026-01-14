@@ -10,6 +10,7 @@ namespace PL
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Se crea una rama llamada 'practica'");
         }
     }
 }
